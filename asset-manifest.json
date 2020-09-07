@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/tutoria-built/static/css/main.471f326f.chunk.css",
+    "main.js": "/tutoria-built/static/js/main.5b7061b0.chunk.js",
+    "main.js.map": "/tutoria-built/static/js/main.5b7061b0.chunk.js.map",
+    "runtime-main.js": "/tutoria-built/static/js/runtime-main.36e4ccf6.js",
+    "runtime-main.js.map": "/tutoria-built/static/js/runtime-main.36e4ccf6.js.map",
+    "static/css/2.6bad2236.chunk.css": "/tutoria-built/static/css/2.6bad2236.chunk.css",
+    "static/js/2.55a2ceb3.chunk.js": "/tutoria-built/static/js/2.55a2ceb3.chunk.js",
+    "static/js/2.55a2ceb3.chunk.js.map": "/tutoria-built/static/js/2.55a2ceb3.chunk.js.map",
+    "index.html": "/tutoria-built/index.html",
+    "precache-manifest.dc5d04bdf88a9dd91d1d5db09eef4f9d.js": "/tutoria-built/precache-manifest.dc5d04bdf88a9dd91d1d5db09eef4f9d.js",
+    "service-worker.js": "/tutoria-built/service-worker.js",
+    "static/css/2.6bad2236.chunk.css.map": "/tutoria-built/static/css/2.6bad2236.chunk.css.map",
+    "static/css/main.471f326f.chunk.css.map": "/tutoria-built/static/css/main.471f326f.chunk.css.map",
+    "static/js/2.55a2ceb3.chunk.js.LICENSE.txt": "/tutoria-built/static/js/2.55a2ceb3.chunk.js.LICENSE.txt",
+    "static/media/style__landing.scoped.scss?scopeId=e6e3a13d": "/tutoria-built/static/media/MONTSERRAT-MEDIUM.c304ae69.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36e4ccf6.js",
+    "static/css/2.6bad2236.chunk.css",
+    "static/js/2.55a2ceb3.chunk.js",
+    "static/css/main.471f326f.chunk.css",
+    "static/js/main.5b7061b0.chunk.js"
+  ]
+}
